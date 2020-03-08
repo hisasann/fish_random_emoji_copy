@@ -42,6 +42,22 @@ This support emoji which I love is food emoji.
 
 [😋 Get Emoji — All Emojis to ✂️ Copy and 📋 Paste 👌](https://getemoji.com/)
 
+## Reference article
+
+[set:シェル変数の設定・一覧・消去・確認する6活用](http://fish.rubikitch.com/set/)
+
+[How to get array size in fish shell? - Stack Overflow](https://stackoverflow.com/questions/50009360/how-to-get-array-size-in-fish-shell)
+
+[bashで乱数を使いたいときは$RANDOMという変数が用意されていいる - コード日進月歩](https://shinkufencer.hateblo.jp/entry/2019/05/13/233000)
+
+[Fish Shellでコマンドの実行結果を変数に代入する方法 | Web Scratch](https://efcl.info/2013/0520/res3282/)
+
+[[fish]コマンドラインのコマンドをクリップボードにコピーする - Qiita](https://qiita.com/tamanugi/items/f4ef657120299aa70737)
+
+[OSXのターミナルで、クリップボードにコピーする時に末尾の改行コードを削除する - Qiita](https://qiita.com/m-tkg/items/2ed20000bf223d0068c0)
+
+[tamanugi/fish_commandline_copy](https://github.com/tamanugi/fish_commandline_copy)
+
 ## 🍟 Author
 
 - [github/hisasann](https://github.com/hisasann)
