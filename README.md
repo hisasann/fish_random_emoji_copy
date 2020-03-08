@@ -6,7 +6,7 @@ git のコミットメッセージの先頭に絵文字があるだけでコミ�
 (Commits are pretty just by having an emoji at the top of the git commit message.)
 
 <p align="center">
-  <img src="https://github.com/hisasann/fish_random_emoji_copyraw/master/assets/github-file-list.png" />
+  <img src="https://github.com/hisasann/fish_random_emoji_copy/raw/master/assets/github-file-list.png" />
 </p>
 
 ## 🥫 Installation
