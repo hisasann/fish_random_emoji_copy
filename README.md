@@ -3,6 +3,7 @@
 Random emoji copy to clipboard using fish shell.
 
 git のコミットメッセージの先頭に絵文字があるだけでコミットが可愛くなります。
+
 (Commits are pretty just by having an emoji at the top of the git commit message.)
 
 <p align="center">
