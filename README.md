@@ -2,6 +2,13 @@
 
 Random emoji copy to clipboard using fish shell.
 
+git のコミットメッセージの先頭に絵文字があるだけでコミットが可愛くなります。
+(Commits are pretty just by having an emoji at the top of the git commit message.)
+
+<p align="center">
+  <img src="https://github.com/hisasann/fish_random_emoji_copyraw/master/assets/github-file-list.png" />
+</p>
+
 ## 🥫 Installation
 
 [jorgebucaran/fisher: A package manager for the fish shell.](https://github.com/jorgebucaran/fisher)
