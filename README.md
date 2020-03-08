@@ -23,7 +23,7 @@ Please bind **random_emoji_copy** to your favorite key in config.fish file.
 
 `~/.config/fish/config.fish`
 
-Example is `Ctrl + J + K` keybind.
+Example, Keybind copy `Ctrl + J + K` to clipboard.
 
 ```bash
 function fish_user_key_bindings
